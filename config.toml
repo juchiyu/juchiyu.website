@@ -1,10 +1,10 @@
-title = "Personal website of Ju-Chi Yu"
+title = "Ju-Chi Yu, Ph.D."
 
 relativeURLs = true
 
 theme = "hugo-PaperMod"
 
-copyright = "Ju-Chi Yu"
+copyright = "All rights reserved to Ju-Chi Yu"
 
 enableRobotsTXT = true
 
@@ -12,41 +12,22 @@ enableEmoji = true
 
 defaultContentLanguage = 'en'
 
-hasCJKLanguage = true
-
-defaultContentLanguageInSubdir: true
-
-[languages]
-  [Languages.zh-tw] 
-    languageCode = "zh-tw" 
-    languageName = "正體中文（臺灣）
-    title = '游如淇'
-    weight = 2
-
-  [languages.en]
-    title = 'Ju-Chi Yu'
-    weight = 1
-    
-
-[social]
+  [social]
     github  = "https://github.com/juchiyu"
     twitter = "https://twitter.com/juchiyu"
-    
-[[menu.main]]
-    name = "Home"
-    url = "/home/"
 
-[[menu.main]]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
 
-[[menu.main]]
+  [[menu.main]]
     name = "CV"
     url = "/CV/"
 
-[[menu.main]]
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    
-
-
