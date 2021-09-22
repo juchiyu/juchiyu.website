@@ -2,6 +2,8 @@ title = "Ju-Chi Yu, Ph.D."
 
 relativeURLs = true
 
+publishDir = "../juchiyu.github.io"
+
 theme = "hugo-PaperMod"
 
 copyright = "All rights reserved to Ju-Chi Yu"
