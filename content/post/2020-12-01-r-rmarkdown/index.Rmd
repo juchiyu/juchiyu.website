@@ -1,9 +1,9 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Front matter"
+author: "Ju-Chi Yu"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+categories: ["Blog"]
+tags: ["R Markdown", "inro"]
 ---
 
 ```{r setup, include=FALSE}
