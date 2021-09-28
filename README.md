@@ -1,2 +1,2 @@
-# juchiyu.blog
-My personal website and blogs
+# Ju-Chi Yu's blog
+My personal website and blogs......and I'm still working on it...
