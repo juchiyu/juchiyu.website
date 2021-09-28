@@ -1,4 +1,4 @@
-baseurl = "http://juchiyu.rbind.io"
+baseurl = "http://juchiyu.netlify.app"
 relativeURLs = false
 languageCode = "en-us"
 title = "Ju-Chi Yu, Ph.D."
