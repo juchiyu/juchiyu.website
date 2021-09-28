@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://juchiyu.rbind.io"
 relativeURLs = false
 languageCode = "en-us"
 title = "Ju-Chi Yu, Ph.D."
