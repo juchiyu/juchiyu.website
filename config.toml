@@ -1,18 +1,13 @@
+baseurl = "/"
+relativeURLs = false
+languageCode = "en-us"
 title = "Ju-Chi Yu, Ph.D."
-
-relativeURLs = true
-
-publishDir = "../juchiyu.github.io"
-
 theme = "hugo-PaperMod"
-
 copyright = "All rights reserved to Ju-Chi Yu"
-
-enableRobotsTXT = true
-
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
 enableEmoji = true
-
-defaultContentLanguage = 'en'
 
   [social]
     github  = "https://github.com/juchiyu"
@@ -21,10 +16,11 @@ defaultContentLanguage = 'en'
   [[menu.main]]
     name = "Home"
     url = "/"
+    weight = 1
 
   [[menu.main]]
     name = "Blog"
-    url = "/blog/"
+    url = "/post/"
 
   [[menu.main]]
     name = "CV"
@@ -33,3 +29,11 @@ defaultContentLanguage = 'en'
   [[menu.main]]
     name = "About"
     url = "/about/"
+    
+  [[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/juchiyu"
+    
+  [[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/juchiyu"

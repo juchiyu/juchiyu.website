@@ -1,0 +1,14 @@
+---
+title: "A post on the first day"
+author: "Ju-Chi.Yu"
+date: "9/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is my first post
+
+Just testing...

@@ -1,0 +1,15 @@
+---
+title: "CV"
+author: "Ju-Chi.Yu"
+date: "9/28/2021"
+output: rmarkdown::render('CV.Rmd',
+                  output_file = "/CV/index.html")
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## CV
+
+This is where my CV goes
