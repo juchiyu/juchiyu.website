@@ -48,7 +48,7 @@ enableEmoji = true
     ShowCodeCopyButtons = true
     
   [params.homeInfoParams]
-    Title = "Hi there! 👋"
+    Title = "Hi there!"
     Content = "This is my personal website, where I share my thoughts and works from intersting (and only interesting) projects on multivariate methods, brain connectivity, and things in between. This website is still under construction......"
     
   [[params.socialIcons]]
