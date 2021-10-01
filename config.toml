@@ -42,11 +42,6 @@ enableEmoji = true
     description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
     author = "Theme PaperMod"
     defaultTheme = "auto"
-    ShowShareButtons = true
-    ShowReadingTime = true
-    displayFullLangName = true
-    ShowPostNavLinks = true
-    ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
     
   [params.homeInfoParams]
