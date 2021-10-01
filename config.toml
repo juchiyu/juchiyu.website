@@ -1,39 +1,66 @@
-baseurl = "http://juchiyu.netlify.app"
+baseurl = "http://juchiyu.rbind.io"
 relativeURLs = false
 languageCode = "en-us"
 title = "Ju-Chi Yu, Ph.D."
-theme = "hugo-PaperMod"
+theme = "hugo-tranquilpeak-theme"
 copyright = "All rights reserved to Ju-Chi Yu"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
+enableInlineShortcodes = true
+enableRobotsTXT = true
 enableEmoji = true
-
-  [social]
-    github  = "https://github.com/juchiyu"
-    twitter = "https://twitter.com/juchiyu"
 
   [[menu.main]]
     name = "Home"
     url = "/en/"
     weight = 1
+    
+  [[menu.main]]
+    name = "About"
+    url = "/en/about/"
+    weight = 2
 
   [[menu.main]]
     name = "Blog"
     url = "/en/post/"
+    weight = 3
 
   [[menu.main]]
     name = "CV"
     url = "/en/CV/"
-
-  [[menu.main]]
-    name = "About"
-    url = "/en/about/"
+    weight = 4
     
   [[menu.main]]
-    name = "GitHub"
+    name = ""
+    identifier = "GitHub"
+    pre = "<i class='fab fa-github'></i>"
     url = "https://github.com/juchiyu"
     
-  [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/juchiyu"
+  [params]
+    env = "production"
+    description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author = "Theme PaperMod"
+    defaultTheme = "auto"
+    ShowShareButtons = true
+    ShowReadingTime = true
+    displayFullLangName = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    
+  [params.homeInfoParams]
+    Title = "Hi there! 👋"
+    Content = "This is my personal website, where I share my thoughts and works from intersting (and only interesting) projects on multivariate methods, brain connectivity, and things in between. This website is still under construction......"
+    
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/juchiyu"
+  
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/ju-chi-yu-83270695/"
+  
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/juchiyu"
