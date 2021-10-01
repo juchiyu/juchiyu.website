@@ -32,13 +32,19 @@ enableEmoji = true
     weight = 4
     
   [[menu.main]]
-    name = ""
-    identifier = "GitHub"
-    pre = "<i class='fab fa-github'></i>"
+    name = "GitHub"
     url = "https://github.com/juchiyu"
     
   [params]
-    author = "Ju-Chi Yu"
+    env = "production"
+    description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author = "Theme PaperMod"
+    defaultTheme = "auto"
+    ShowShareButtons = true
+    ShowReadingTime = true
+    displayFullLangName = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
     
   [params.homeInfoParams]
