@@ -38,10 +38,7 @@ enableEmoji = true
     url = "https://github.com/juchiyu"
     
   [params]
-    env = "production"
-    description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author = "Theme PaperMod"
-    defaultTheme = "auto"
+    author = "Ju-Chi Yu"
     ShowCodeCopyButtons = true
     
   [params.homeInfoParams]
