@@ -2,7 +2,7 @@ baseurl = "http://juchiyu.rbind.io"
 relativeURLs = false
 languageCode = "en-us"
 title = "Ju-Chi Yu, Ph.D."
-theme = "hugo-tranquilpeak-theme"
+theme = "hugo-PaperMod"
 copyright = "All rights reserved to Ju-Chi Yu"
 googleAnalytics = ""
 disqusShortname = ""
@@ -32,7 +32,9 @@ enableEmoji = true
     weight = 4
     
   [[menu.main]]
-    name = "GitHub"
+    name = ""
+    identifier = "GitHub"
+    pre = "<i class='fab fa-github'></i>"
     url = "https://github.com/juchiyu"
     
   [params]
@@ -48,7 +50,7 @@ enableEmoji = true
     ShowCodeCopyButtons = true
     
   [params.homeInfoParams]
-    Title = "Hi there!"
+    Title = "Hi there! 👋"
     Content = "This is my personal website, where I share my thoughts and works from intersting (and only interesting) projects on multivariate methods, brain connectivity, and things in between. This website is still under construction......"
     
   [[params.socialIcons]]
