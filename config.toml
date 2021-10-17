@@ -52,8 +52,6 @@ enableEmoji = true
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
-    ShowToc = true
-    TocOpen = true
     ShowBreadCrumbs = true
     
   [params.homeInfoParams]
