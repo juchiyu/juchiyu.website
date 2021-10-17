@@ -1,0 +1,18 @@
+---
+title: "Blog"
+author: "Ju-Chi.Yu"
+date: "9/22/2021"
+output: html_document
+---
+
+## Content
+
+```{r, include = FALSE}
+library(knitr)
+all.post <- list.files("posts")
+post.link <- paste0("http://juchiyu.rbind.io/en/posts/", all.post)
+post.link
+
+```
+
++ [10-17-2021 First post](`r post.link[1]`)

@@ -18,7 +18,7 @@ enableEmoji = true
 
   [[menu.main]]
     name = "Blog"
-    url = "/en/posts"
+    url = "/en/blogTOC/"
     weight = 2
 
   [[menu.main]]
