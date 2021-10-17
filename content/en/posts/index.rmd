@@ -1,0 +1,13 @@
+---
+title: "Blog"
+author: "Ju-Chi.Yu"
+output: html_document
+---
+
+```{r}
+library(knitr)
+all.post <- list.files("content/en/posts")
+
+kable(all.post, col.names = "Blog posts")
+```
+
