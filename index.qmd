@@ -1,0 +1,32 @@
+---
+title: "Ju-Chi Yu, Ph.D."
+subtitle: "Ph.D. in Cognition and Neuroscience"
+toc: false
+image: images/profile_pic.jpg
+about:
+  template: jolla
+  image-width: 10em
+editor: 
+  mode: source  
+---
+
+**Profile:**\
+I am a postdoctoral research fellow in [the Kimel Family Translational Imaging-Genetics Laboratory](https://imaging-genetics.camh.ca/) at the Centre for Addiction and Mental Health. I am an interdisciplinary scientist interest in method development and brain imaging. I received my Ph.D. in Cognition and Neuroscien at the University of Texas at Dallas, under the supervision of Dr. Herv&#233; Abdi.
+
+
+**Research:**\
+My research aims to enhance methodological rigor in clinical neuroscience by developing and refining statistical methods to answer research questions that traditional methods cannot adequately address. I developed sparse variants of several multivariate methods, including sparse correspondence analysis, sparse multiple correspondence analysis, sparse discriminant correspondence analysis, sparse partial least squares correlation, and sparse partial least squares correspondence analysis, tailored for both categorical and numeric data. 
+
+Towards the end of my Ph.D. and leading into my postdoctoral training, I became interested in brain connectivity and started to focus on multi-table multivariate methods, such as STATIS (short for Structuration des Tableaux &#224; Trois Indices de la Statistique or, approximately, "structuring three-way statistical tables" in English) and CovSTATIS/DiSTATIS (i.e., STATIS respectively for covariance and distance matrices). I developed sparsification techniques for these methods which can be applied to sensory evaluation and network analysis. 
+
+During my postdoctoral training, I have applied multivariate methods to neuroimaging research in complex mental health disorders, such as schizophrenia spectrum disorders (SSDs) and autism spectrum disorders (autism), both characterized by heterogeneous clinical and functional outcomes. By applying these methods, I assess individual differences in clinical populations, refining and validating novel statistical methods for reliability, generalizability, and clinical translatability, in alignment with open-science initiatives. 
+
+**Life:**\
+I was born and raised in Tainan, Taiwan. I completed my undergraduate and master's Psychology degree at National Cheng Kung University, supervised by Dr. Cheng-Ta Yang. I was trained as a mathematical cognitive psychologist who applied mathematical modeling to understand visual processing. I then moved to Dallas for my Ph.D. study in 2015.
+
+I was a scout during undergrad, and I enjoy playing with ropes and knots and building campfire. I like nature but also enjoy reading and Netflix. I am a fan of Brendon Sanderson and Bill Bryson. I am currently learning French because I somehow collaborated with many French researchers. 
+
+<!-- ## **Recent Activities** -->
+
+
+<section>

@@ -1,2 +1,3 @@
-# Ju-Chi Yu's blog
-My personal website and blogs......and I'm still working on it...
+# Ju-Chi Yu's personal website
+
+This is a Quarto website.

@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Ju-Chi Yu, Ph.D."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: CV.qmd
+        text: CV
+      - href: tutorials.qmd
+        text: Resources
+      - href: https://scholar.google.com.tw/citations?user=bkfSsy0AAAAJ&hl=en
+        text: Google Scholar
+      - icon: github
+        href: https://github.com/juchiyu
+      - icon: twitter 
+        href: https://X.com/juchiyu
+
+format:
+  html:
+    theme:
+      light: sandstone
+    css: css/bootstrap.min.css
+    toc: true
+
+editor: visual
+

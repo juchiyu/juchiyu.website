@@ -1,0 +1,21 @@
+---
+title: ""
+---
+
+## **Online Tutorials**
+
++ **CovSTATIS tutorial**: [Reproducible example for the paper “covSTATIS: a multi-table technique for network neuroscience”](https://giuliabaracc.github.io/covSTATIS_netneuro/) 
++ **Multivariate methods**: [R4SPISE2024: Provides a set of Programs, Vignettes, and Data for the SPISE2024 Workshop.]( https://vguillemot.github.io/R4SPISE2024/) 
++ **Multivariate methods**: [R4SPISE2022: Provides a set of Programs, Vignettes, and Data for the SPISE2022 Workshop.](https://herveabdi.github.io/R4SPISE2022/)
+
+## **R Package Contributions**
+
+<u>**Developer**</u>
+
++ **SPAFAC**: Sparse Factorial Analysis [R package](https://github.com/juchiyu/SPAFAC)
++ **sGSVD**: Sparse Generalize Singular Value Decomposition [R package](https://github.com/vguillemot/sGSVD)
+
+<u>**Contributor**</u>
+
++ TExPosition R package
++ TInPosition R package
