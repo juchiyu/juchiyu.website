@@ -6,9 +6,10 @@ format:
 css: css/cv.css
 ---
 
-::: {.print-only .contact-block}
-psyjcyu@gmail.com
-:::
+#### Ju-Chi Yu, Ph.D.
+
+<i class="bi bi-buildings-fill"></i>  [Ju-Chi.Yu@camh.ca](mailto:Ju-Chi.Yu@camh.ca)<br>
+<i class="bi bi-envelope"></i> [psyjcyu@gmail.com](mailto: Ju-Chi.Yu@gmail.com)<br>
 
 ## **Academic position**
 

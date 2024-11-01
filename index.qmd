@@ -6,13 +6,29 @@ image: images/profile_pic.jpg
 about:
   template: jolla
   image-width: 10em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:psyjcyu@gmail.com
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com.tw/citations?user=bkfSsy0AAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/juchiyu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ju-chi-yu-83270695/
+    - icon: twitter-x
+      text: X
+      href: https://X.com/juchiyu
+page-layout: full
 editor: 
   mode: source  
 ---
 
 **Profile:**\
-I am a postdoctoral research fellow in [the Kimel Family Translational Imaging-Genetics Laboratory](https://imaging-genetics.camh.ca/) at the Centre for Addiction and Mental Health (CAMH). I received my Ph.D. in Cognition and Neuroscien at the University of Texas at Dallas, under the supervision of Dr. Herv&#233; Abdi.
-
+I am a postdoctoral research fellow in [the Kimel Family Translational Imaging-Genetics Laboratory](https://imaging-genetics.camh.ca/) at the Centre for Addiction and Mental Health (CAMH). I received my Ph.D. in Cognition and Neuroscience at the University of Texas at Dallas.
 
 **Research:**\
 My research aims to enhance methodological rigor in clinical neuroscience by developing and refining statistical methods to answer research questions that traditional methods cannot adequately address. 
@@ -22,7 +38,7 @@ My recent work in method development includes developing sparse variants of seve
 Moreover, by applying multivariate methods to analyze brain connectivity, I found that cognitive deficits in schizophrenia spectrum disorders (SSDs) are linked to less distinct brain network configurations during resting state. The clinical implications of these findings were further supported by their correlations with clinical symptoms, functioning, and quality of life (accepted by [*BP: CNNI*](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(24)00268-4/abstract)). This study demonstrated how we can meaningfully apply multivariate methods in examining the relationships between brain connectivity and cognition in clinical samples. 
 
 **Life:**\
-I was born and raised in Tainan, Taiwan. I was a scout during undergrad, and I enjoy playing with ropes and knots and building campfire. I like nature but also enjoy reading and watching Netflix. I am a fan of Brendon Sanderson and Bill Bryson. I am currently learning French because I somehow collaborated with many French researchers. 
+I was born and raised in Tainan, Taiwan. I was a scout during undergrad, and I enjoy playing with ropes and knots and building campfire. I like nature but also enjoy reading and watching Netflix (and doing nothing). I am a fan of Brandon Sanderson and Bill Bryson. I am currently learning French because I somehow started collaborating with many French researchers. 
 
 <!-- ## **Recent Activities** -->
 

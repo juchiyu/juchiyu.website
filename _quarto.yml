@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-0VWQVF21VS"
   title: "Ju-Chi Yu, Ph.D."
   navbar:
     left:
@@ -12,24 +13,26 @@ website:
         text: CV
       - href: tutorials.qmd
         text: Resources
-      - href: https://scholar.google.com.tw/citations?user=bkfSsy0AAAAJ&hl=en
-        text: Google Scholar
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com.tw/citations?user=bkfSsy0AAAAJ&hl=en
       - icon: github
         href: https://github.com/juchiyu
-      - icon: twitter 
-        href: https://X.com/juchiyu
       - icon: linkedin 
         href: https://www.linkedin.com/in/ju-chi-yu-83270695/
+      - icon: twitter-x
+        href: https://X.com/juchiyu
   page-footer: 
     center: "Ju-Chi Yu, Ph.D."
     right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com.tw/citations?user=bkfSsy0AAAAJ&hl=en
       - icon: github
         href: https://github.com/juchiyu
-      - icon: twitter 
-        href: https://X.com/juchiyu
       - icon: linkedin 
         href: https://www.linkedin.com/in/ju-chi-yu-83270695/
-  google-analytics: "G-0VWQVF21VS"
+      - icon: twitter-x 
+        href: https://X.com/juchiyu
 
 format:
   html:

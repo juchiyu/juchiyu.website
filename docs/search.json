@@ -25,7 +25,7 @@
     "href": "CV.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "psyjcyu@gmail.com"
+    "text": "Ju-Chi.Yu@camh.ca  psyjcyu@gmail.com"
   },
   {
     "objectID": "CV.html#academic-position",
@@ -63,17 +63,17 @@
     "text": "Service and Outreach\nOpen Science Room Chair, OHBM Open Science Special Interest Group Jul 2024 — present Guest Editor, Aperture Neuro Special Issue - “Open Datasets: Impact, Infrastructure, and Governance” Organizer, Taiwan Open Science Days in Neuroscience and Cognitive Sciences Co-Organizer, the 2024 Brainhack Global Toronto Member, Technology and Services Working Group, Controlled Access Management of Research Data Initiative, Digital Research Alliance Member, Data Stewardship Working Group, Controlled Access Management of Research Data Initiative, Digital Research Alliance Moderator, the 2024 OHBM Open Science Room panel - Who pays the bill? Jun 2024 Moderator, the 2024 OHBM Open Science Room panel - Open Science in Asia/Korea Moderator, the 2024 OHBM Open Science Room table talk - Open Science in Asia/Korea Volunteering staff, the 2024 OHBM Brainhack Hub Organizer, the 2024 Brainhack School Mar 2024 — present Session Chair, Imaging Network Ontario Symposium Judge, Imaging Network Ontario Mar 2024 Open Science Room Chair-Elect, OHBM Open Science Special Interest Group Sep 2023 — Jul 2024 Co-Organizer, the 2023 Brainhack Global Toronto Sep 2023 — Dec 2023 Volunteer, the 2023 OHBM Open Science Room Jul 2023\nVolunteer, the 2023 OHBM Brainhack  Co-Organizer, the 2022 Brainhack Global TorontoSep 2022 — Dec 2022 Volunteer Session Host, the 2022 OHBM Open Science Room Jun 2022 Volunteer, the 2021 Brainhack Global TorontoSep 2021 — Nov 2021 Organizer, the 2019 Brainhack Global DallasOct 2019 — Nov 2019"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#section",
+    "href": "about.html#section",
     "title": "About",
-    "section": "",
-    "text": "This is a Quarto website."
+    "section": "????????????",
+    "text": "????????????\n????????????????????????"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ju-Chi Yu, Ph.D.",
     "section": "",
-    "text": "Profile:\nI am a postdoctoral research fellow in the Kimel Family Translational Imaging-Genetics Laboratory at the Centre for Addiction and Mental Health (CAMH). I received my Ph.D. in Cognition and Neuroscien at the University of Texas at Dallas, under the supervision of Dr. Hervé Abdi.\nResearch:\nMy research aims to enhance methodological rigor in clinical neuroscience by developing and refining statistical methods to answer research questions that traditional methods cannot adequately address.\nMy recent work in method development includes developing sparse variants of several multivariate methods, including sparse correspondence analysis, sparse multiple correspondence analysis, sparse discriminant correspondence analysis (preprint), sparse partial least squares correlation, sparse partial least squares correspondence analysis (dissertation), and sparse multitable methods (published in Journal of Chemometrics).\nMoreover, by applying multivariate methods to analyze brain connectivity, I found that cognitive deficits in schizophrenia spectrum disorders (SSDs) are linked to less distinct brain network configurations during resting state. The clinical implications of these findings were further supported by their correlations with clinical symptoms, functioning, and quality of life (accepted by BP: CNNI). This study demonstrated how we can meaningfully apply multivariate methods in examining the relationships between brain connectivity and cognition in clinical samples.\nLife:\nI was born and raised in Tainan, Taiwan. I was a scout during undergrad, and I enjoy playing with ropes and knots and building campfire. I like nature but also enjoy reading and watching Netflix. I am a fan of Brendon Sanderson and Bill Bryson. I am currently learning French because I somehow collaborated with many French researchers."
+    "text": "Profile:\nI am a postdoctoral research fellow in the Kimel Family Translational Imaging-Genetics Laboratory at the Centre for Addiction and Mental Health (CAMH). I received my Ph.D. in Cognition and Neuroscience at the University of Texas at Dallas.\nResearch:\nMy research aims to enhance methodological rigor in clinical neuroscience by developing and refining statistical methods to answer research questions that traditional methods cannot adequately address.\nMy recent work in method development includes developing sparse variants of several multivariate methods, including sparse correspondence analysis, sparse multiple correspondence analysis, sparse discriminant correspondence analysis (preprint), sparse partial least squares correlation, sparse partial least squares correspondence analysis (dissertation), and sparse multitable methods (published in Journal of Chemometrics).\nMoreover, by applying multivariate methods to analyze brain connectivity, I found that cognitive deficits in schizophrenia spectrum disorders (SSDs) are linked to less distinct brain network configurations during resting state. The clinical implications of these findings were further supported by their correlations with clinical symptoms, functioning, and quality of life (accepted by BP: CNNI). This study demonstrated how we can meaningfully apply multivariate methods in examining the relationships between brain connectivity and cognition in clinical samples.\nLife:\nI was born and raised in Tainan, Taiwan. I was a scout during undergrad, and I enjoy playing with ropes and knots and building campfire. I like nature but also enjoy reading and watching Netflix (and doing nothing). I am a fan of Brandon Sanderson and Bill Bryson. I am currently learning French because I somehow started collaborating with many French researchers."
   }
 ]
