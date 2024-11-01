@@ -29,6 +29,7 @@ website:
         href: https://X.com/juchiyu
       - icon: linkedin 
         href: https://www.linkedin.com/in/ju-chi-yu-83270695/
+  google-analytics: "G-0VWQVF21VS"
 
 format:
   html:
@@ -37,4 +38,3 @@ format:
     toc: true
 
 editor: visual
-
