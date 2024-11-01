@@ -18,11 +18,21 @@ website:
         href: https://github.com/juchiyu
       - icon: twitter 
         href: https://X.com/juchiyu
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/ju-chi-yu-83270695/
+  page-footer: 
+    center: "Ju-Chi Yu, Ph.D."
+    right:
+      - icon: github
+        href: https://github.com/juchiyu
+      - icon: twitter 
+        href: https://X.com/juchiyu
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/ju-chi-yu-83270695/
 
 format:
   html:
-    theme:
-      light: sandstone
+    theme: sandstone
     css: css/bootstrap.min.css
     toc: true
 

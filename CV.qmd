@@ -113,7 +113,7 @@ Courses: Statistics and Data Analysis (including SAS and R programming)
 **Session Chair**, Imaging Network Ontario Symposium Judge, Imaging Network Ontario [*Mar 2024*]{.cvdate}<br>
 **Open Science Room Chair-Elect**, OHBM Open Science Special Interest Group [*Sep 2023 --- Jul 2024*]{.cvdate}<br>
 **Co-Organizer**, the 2023 Brainhack Global Toronto [*Sep 2023 --- Dec 2023*]{.cvdate}<br>
-**Volunteer**, the 2023 OHBM Open Science Room [*Jul 2023*]{.cvdate}<br>			
+**Volunteer**, the 2023 OHBM Open Science Room [*Jul 2023*]{.cvdate}		
 **Volunteer**, the 2023 OHBM Brainhack <br>
 **Co-Organizer**, the 2022 Brainhack Global Toronto[*Sep 2022 --- Dec 2022*]{.cvdate}<br>
 **Volunteer Session Host**, the 2022 OHBM Open Science Room [*Jun 2022*]{.cvdate}<br>
