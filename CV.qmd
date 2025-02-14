@@ -34,11 +34,17 @@ Project Advisor: Cheng-Ta Yang, Ph.D.
 
 <u>**Peer-reviewed journal articles**</u> <br>
 
-Baracchini, G.\*, **Yu, J.-C.\* **, Rieck, J., Beaton, D., Guillemot, V., Grady, C., Abdi, H., Spreng, R. N. (2024) covSTATIS: a multi-table technique for network neuroscience. Aperture Neuro, (in press).
+Rashidi, A.G., Oliver, L.D., Pan, R., Moxon-Emre, I., Hawco, C., Dickie, E.W., Secara, M.T., **Yu, J.-C.**, Foussias, G., Szatmari, P., Desarkar, P., Buchanan, R.W., Malhotra, A.K., Lai, M-C., Voineskos, A.N., Ameis, S.H. (2025) Comparative Analysis of Social Cognitive and Neurocognitive Performance Across Autism and Schizophrenia Spectrum Disorders. *Schizophrenia Bulletin*, (accepted).
 
-**Yu, J.-C.**, Hawco, C., Bassman, L., Oliver, L. D., Argyelan, M., Gold, J. M., Tang, S. X., Foussias, G., Buchanan, R. W., Malhotra, A. K., Ameis, S. H., Voineskos, A. N., Dickie, E. W. (2024) Multivariate Association between Functional Connectivity Gradients and Cognition in Schizophrenia Spectrum Disorders, Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, (in press).
+Baracchini, G.\*, **Yu, J.-C.\* **, Rieck, J., Beaton, D., Guillemot, V., Grady, C., Abdi, H., Spreng, R. N. (2024) covSTATIS: a multi-table technique for network neuroscience. *Aperture Neuro*, *4*. https://doi.org/10.52294/001c.124518. [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/giuliabaracc/covSTATIS_netneuro)
 
-Ng, J., **Yu, J.-C.**, Feusner, J., Hawco, C. (2024) Stable, efficient, and typical dynamic functional connectivity patterns relate to higher general intelligence. Imaging Neuroscience, (in press).
+
+**Yu, J.-C.**, Hawco, C., Bassman, L., Oliver, L. D., Argyelan, M., Gold, J. M., Tang, S. X., Foussias, G., Buchanan, R. W., Malhotra, A. K., Ameis, S. H., Voineskos, A. N., Dickie, E. W. (2024) Multivariate Association between Functional Connectivity Gradients and Cognition in Schizophrenia Spectrum Disorders, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, (in press). [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/spin_gradients.git)
+<!-- <a href="https://github.com/juchiyu/spin_gradients.git"> -->
+<!--   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"> -->
+<!-- </a> -->
+
+Ng, J., **Yu, J.-C.**, Feusner, J., Hawco, C. (2024) Stable, efficient, and typical dynamic functional connectivity patterns relate to higher general intelligence. *Imaging Neuroscience*, *2*, 1-34. doi: https://doi.org/10.1162/imag_a_00234.
 
 Gallucci, J., **Yu, J.-C.**, Oliver, L. D., Nakua, H., Zhukovsky, P., Dickie, E. W., Foussias, G., Blumberger, D. M., Hawco, C., Voineskos, A. N. (2024) Neural circuitry and therapeutic targeting of depressive symptoms in schizophrenia spectrum disorders. *American Journal of Psychiatry*, *181*, 910-919. https://doi.org/10.1176/appi.ajp.20230655.
 
@@ -68,11 +74,11 @@ Yang, C.-T., **Yu, J.-C.**, & Chang, W.-S. (2016). Using systems factorial techn
 
 <u>**Conference Proceedings**</u><br>
 
-**Yu, J.-C.**, Hawco, C., Oliver, L. D., Secara, M. T., Moxon-Emre, I., Sandhu, F. A., Khan, Z. Z., Szatmari, P., Argyelan, M., Gold, J. M., Tang, S., Foussias, G., Buchanan, R. W., Malhotra, A. K., Voineskos, A. N., Ameis, S. H., Dickie, E. W. (2024) Multivariate transdiagnostic neural biomarkers of Schizophrenia and Autism Spectrum Disorders during the empathic accuracy task. Biological Psychiatry, 95 (Supplementary Issue 10), S379. https://doi.org/10.1016/j.biopsych.2024.02.878.
+**Yu, J.-C.**, Hawco, C., Oliver, L. D., Secara, M. T., Moxon-Emre, I., Sandhu, F. A., Khan, Z. Z., Szatmari, P., Argyelan, M., Gold, J. M., Tang, S., Foussias, G., Buchanan, R. W., Malhotra, A. K., Voineskos, A. N., Ameis, S. H., Dickie, E. W. (2024) Multivariate transdiagnostic neural biomarkers of Schizophrenia and Autism Spectrum Disorders during the empathic accuracy task. *Biological Psychiatry*, *95* (Supplementary Issue 10), S379. https://doi.org/10.1016/j.biopsych.2024.02.878.
 
-Oliver, L. D., Hawco, C., Calarco, N., **Yu, J.-C.**, Moxon-Emre, I., Tan, T., Gold, J. M., Foussias, G., DeRosse, P., Argyelan, M., Buchanan, R. W., Malhotra, A. K., & Voineskos, A. N. (2022). Multivariate relationships between social cognitive performance and functional connectivity during task and rest across schizophrenia spectrum disorders and healthy controls. Biological Psychiatry, 46 (Supplementary Issue 9), S316. https://doi.org/10.1016/j.biopsych.2022.02.798.
+Oliver, L. D., Hawco, C., Calarco, N., **Yu, J.-C.**, Moxon-Emre, I., Tan, T., Gold, J. M., Foussias, G., DeRosse, P., Argyelan, M., Buchanan, R. W., Malhotra, A. K., & Voineskos, A. N. (2022). Multivariate relationships between social cognitive performance and functional connectivity during task and rest across schizophrenia spectrum disorders and healthy controls. *Biological Psychiatry*, *46* (Supplementary Issue 9), S316. https://doi.org/10.1016/j.biopsych.2022.02.798.
 
-**Yu, J.-C.**, Chang, T.-Y., & Yang, C.-T. (2014). Working memory capacity predicts workload capacity. Visual Cognition, 22(8), 1046-1049.
+**Yu, J.-C.**, Chang, T.-Y., & Yang, C.-T. (2014). Working memory capacity predicts workload capacity. *Visual Cognition*, *22*(8), 1046-1049.
 
 
 ## **Teaching Experience**{style="page-break-before: always"}
@@ -97,6 +103,17 @@ Courses: Experimental Project<br>
 Courses: Introduction to Psychology<br>
 **Teaching Assistant**, National Cheng Kung University [*2012 --- 2013*]{.cvdate}				
 Courses: Statistics and Data Analysis (including SAS and R programming)
+
+## **Awards and Honors**
+
+Early Career Academic Excellence Award, the Congress of the Schizophrenia International Research Society (2025) ($1000 USD)<br>
+Meeting Scholarship for the Sensometric Society Meeting (2024) ($1600 EUR)<br>
+Sallie P. Asche Travel Award for the Dallas Aging and Cognition Conference (DACC) (2023) ($500 USD)<br>
+Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2017) ($125 USD)<br>
+Top 5 Student Poster for the 10th Annual Reprogramming the Brain to Health Symposium (2016) ($500 USD)<br>
+Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2016) ($125 USD)<br>
+Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2015) ($125 USD)<br>
+Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2014) ($125 USD)<br>
 
 ## **Service and Outreach**
 
