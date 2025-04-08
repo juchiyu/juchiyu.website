@@ -20,6 +20,8 @@ website:
         href: https://github.com/juchiyu
       - icon: linkedin 
         href: https://www.linkedin.com/in/ju-chi-yu-83270695/
+      - icon: bluesky
+        href: https://bsky.app/profile/juchiyu.bsky.social
       - icon: twitter-x
         href: https://X.com/juchiyu
   page-footer: 
@@ -31,6 +33,8 @@ website:
         href: https://github.com/juchiyu
       - icon: linkedin 
         href: https://www.linkedin.com/in/ju-chi-yu-83270695/
+      - icon: bluesky
+        href: https://bsky.app/profile/juchiyu.bsky.social
       - icon: twitter-x 
         href: https://X.com/juchiyu
 
@@ -39,5 +43,8 @@ format:
     theme: sandstone
     css: css/bootstrap.min.css
     toc: true
+    includes:
+      in_header: 
+        - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
 
 editor: visual

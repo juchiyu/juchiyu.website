@@ -8,41 +8,40 @@ css: css/cv.css
 
 #### Ju-Chi Yu, Ph.D.
 
-<i class="bi bi-buildings-fill"></i>  [Ju-Chi.Yu@camh.ca](mailto:Ju-Chi.Yu@camh.ca)<br>
-<i class="bi bi-envelope"></i> [psyjcyu@gmail.com](mailto: Ju-Chi.Yu@gmail.com)<br>
+<i class="bi bi-buildings-fill"></i> [Ju-Chi.Yu\@camh.ca](mailto:Ju-Chi.Yu@camh.ca)<br> <i class="bi bi-envelope"></i> [psyjcyu\@gmail.com](mailto:%20Ju-Chi.Yu@gmail.com)<br>
 
 ## **Academic position**
 
-**Postdoctoral Research Fellow,** <br> **Campbell Family Mental Health Research Institute, The Centre for Addiction and Mental Health** [*Aug 2021 --- Present*]{.cvdate}<br>
-Advisors: Erin Dickie, Ph.D., Colin Hawco, Ph.D., and Stephanie Ameis, MSc, M.D.
+**Postdoctoral Research Fellow,** <br> **Campbell Family Mental Health Research Institute, The Centre for Addiction and Mental Health** [*Aug 2021 --- Present*]{.cvdate}<br> Advisors: Erin Dickie, Ph.D., Colin Hawco, Ph.D., and Stephanie Ameis, MSc, M.D.
 
 ## **Education**
 
-**Ph.D. Cognition and Neuroscience,** <br> **The University of Texas at Dallas** [*Aug 2015 --- Aug 2021*]{.cvdate}<br>
-Dissertation: Sparse partial least square correspondence analysis (sPLS-CA): applications to genetics and behavioral study<br>
-Advisor: Herv&#233; Abdi, Ph.D.
+**Ph.D. Cognition and Neuroscience,** <br> **The University of Texas at Dallas** [*Aug 2015 --- Aug 2021*]{.cvdate}<br> Dissertation: Sparse partial least square correspondence analysis (sPLS-CA): applications to genetics and behavioral study<br> Advisor: Hervé Abdi, Ph.D.
 
-**M.Sc. Psychology,** <br> **National Cheng Kung University** [*Sep 2013 --- Feb 2015*]{.cvdate}<br>
-Thesis: Individual differences in working memory capacity and workload capacity<br>
-Thesis Advisor: Cheng-Ta Yang, Ph.D. 
+**M.Sc. Psychology,** <br> **National Cheng Kung University** [*Sep 2013 --- Feb 2015*]{.cvdate}<br> Thesis: Individual differences in working memory capacity and workload capacity<br> Thesis Advisor: Cheng-Ta Yang, Ph.D.
 
-**B.S. Psychology,** <br> **National Cheng Kung University** [*Sep 2009 --- Jun 2013*]{.cvdate}<br>
-Research project: How top-down attentional set and bottom-up relative saliency affect the process of feature recognition<br>
-Project Advisor: Cheng-Ta Yang, Ph.D.
+**B.S. Psychology,** <br> **National Cheng Kung University** [*Sep 2009 --- Jun 2013*]{.cvdate}<br> Research project: How top-down attentional set and bottom-up relative saliency affect the process of feature recognition<br> Project Advisor: Cheng-Ta Yang, Ph.D.
 
-## **Publications**{style="page-break-before: always"}
+## **Publications** {style="page-break-before: always"}
 
 <u>**Peer-reviewed journal articles**</u> <br>
 
-Rashidi, A.G., Oliver, L.D., Pan, R., Moxon-Emre, I., Hawco, C., Dickie, E.W., Secara, M.T., **Yu, J.-C.**, Foussias, G., Szatmari, P., Desarkar, P., Buchanan, R.W., Malhotra, A.K., Lai, M-C., Voineskos, A.N., Ameis, S.H. (2025) Comparative Analysis of Social Cognitive and Neurocognitive Performance Across Autism and Schizophrenia Spectrum Disorders. *Schizophrenia Bulletin*, (accepted).
+**Yu, J.-C.**, Borgne, J. L., Krishnan, A., Gloaguen, A., Yang, C.-T., Rabin, L. A., Abdi, H., Guillemot, V. (2025) Sparse factor analysis for categorical data with the group-sparse generalized singular value decomposition. *Computational Statistics and Data Analysis*, (in press). [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/SPAFAC) [![PDF](https://img.shields.io/badge/PDF-Download-green?logo=adobeacrobatreader&logoColor=white)](pdf/Yu2025_sMCA_CSDA.pdf)<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" style="font-size: 12px;">
+  PDF is licensed under 
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+    CC BY-NC-ND 4.0
+    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
+    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="">
+    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="">
+    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt="">
+  </a>
+</p>
 
-Baracchini, G.\*, **Yu, J.-C.\* **, Rieck, J., Beaton, D., Guillemot, V., Grady, C., Abdi, H., Spreng, R. N. (2024) covSTATIS: a multi-table technique for network neuroscience. *Aperture Neuro*, *4*. https://doi.org/10.52294/001c.124518. [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/giuliabaracc/covSTATIS_netneuro)
+Rashidi, A.G., Oliver, L.D., Pan, R., Moxon-Emre, I., Hawco, C., Dickie, E.W., Secara, M.T., **Yu, J.-C.**, Foussias, G., Szatmari, P., Desarkar, P., Buchanan, R.W., Malhotra, A.K., Lai, M-C., Voineskos, A.N., Ameis, S.H. (2025) Comparative Analysis of Social Cognitive and Neurocognitive Performance Across Autism and Schizophrenia Spectrum Disorders. *Schizophrenia Bulletin*, (in press).
 
+Baracchini, G.\*, **Yu, J.-C.\*** , Rieck, J., Beaton, D., Guillemot, V., Grady, C., Abdi, H., Spreng, R. N. (2024) covSTATIS: a multi-table technique for network neuroscience. *Aperture Neuro*, *4*. https://doi.org/10.52294/001c.124518. [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/giuliabaracc/covSTATIS_netneuro)
 
-**Yu, J.-C.**, Hawco, C., Bassman, L., Oliver, L. D., Argyelan, M., Gold, J. M., Tang, S. X., Foussias, G., Buchanan, R. W., Malhotra, A. K., Ameis, S. H., Voineskos, A. N., Dickie, E. W. (2024) Multivariate Association between Functional Connectivity Gradients and Cognition in Schizophrenia Spectrum Disorders, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, (in press). [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/spin_gradients.git)
-<!-- <a href="https://github.com/juchiyu/spin_gradients.git"> -->
-<!--   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"> -->
-<!-- </a> -->
+**Yu, J.-C.**, Hawco, C., Bassman, L., Oliver, L. D., Argyelan, M., Gold, J. M., Tang, S. X., Foussias, G., Buchanan, R. W., Malhotra, A. K., Ameis, S. H., Voineskos, A. N., Dickie, E. W. (2024) Multivariate Association between Functional Connectivity Gradients and Cognition in Schizophrenia Spectrum Disorders, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, (in press). [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/spin_gradients.git) <!-- <a href="https://github.com/juchiyu/spin_gradients.git"> --> <!--   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"> --> <!-- </a> -->
 
 Ng, J., **Yu, J.-C.**, Feusner, J., Hawco, C. (2024) Stable, efficient, and typical dynamic functional connectivity patterns relate to higher general intelligence. *Imaging Neuroscience*, *2*, 1-34. doi: https://doi.org/10.1162/imag_a_00234.
 
@@ -52,19 +51,19 @@ Nakua, H., **Yu, J.-C.**, Abdi, H., Hawco, C., Voineskos, A., Hill S., Lai, M.-C
 
 Abdi, H., Guillemot, V., Liu, R., Niang, N., Saporta, G, & **Yu, J.-C.** (2024) From plain to sparse correspondence analysis: A principal component analysis approach. *Statistica Applicata - Italian Journal of Applied Statistics*, *35*, 301-338. https://doi.org/10.26398/IJAS.0035-014. (*Authors are listed in alphabetical order of last names.*)
 
-**Yu, J.-C.\* **, Sokolowski, M.\*, Rao, K., Moraglia, L. E., Ardestani Khoubrouy, S., Abdi, H., Levine, B. (2024) Visualization of Latent Components Assessed in O\*Net Occupations (VOLCANO): A robust method for standardized conversion of occupational labels to ratio format. *Behavior Research Methods*, *56*, 417-432. https://doi.org/10.3758/s13428-022-02044-7
+**Yu, J.-C.\*** , Sokolowski, M.\*, Rao, K., Moraglia, L. E., Ardestani Khoubrouy, S., Abdi, H., Levine, B. (2024) Visualization of Latent Components Assessed in O\*Net Occupations (VOLCANO): A robust method for standardized conversion of occupational labels to ratio format. *Behavior Research Methods*, *56*, 417-432. https://doi.org/10.3758/s13428-022-02044-7
 
-**Yu, J.-C.**, G&#243;mez-Corona, C., Abdi, H., & Guillemot, V. (2024) Sparse MFA, sparse STATIS, and sparse DiSTATIS with an application to sensory evaluation. *Journal of Chemometrics*, *38*, e3443. doi:10.1002/cem.3443
+**Yu, J.-C.**, Gómez-Corona, C., Abdi, H., & Guillemot, V. (2024) Sparse MFA, sparse STATIS, and sparse DiSTATIS with an application to sensory evaluation. *Journal of Chemometrics*, *38*, e3443. doi:10.1002/cem.3443
 
 Stark, J., Hiersche, K. J., **Yu, J.-C.**, Hasselbach, A. N., Abdi, H., Hayes, S. M. (2023) Partial Least Squares Regression analysis of Alzheimer's disease biomarkers, modifiable health variables, and cognitive change in older adults with Mild Cognitive Impairment. *Journal of Alzheimer's Disease*, *93*, 633-651.
 
 Krishnan, A., **Yu, J.-C.**, Miles, R., Beaton, D., Rabin, L., & Abdi, H. (2022). Multiblock discriminant correspondence analysis: How to analyze group differences from structured qualitative data. *Methods in Psychology*, *7*, 100100.
 
-Schweinsberg, M., Feldman, M., Staub, N., Bernstein, A., ., Yarkoni, T.,. Uhlmann, E. L. [and 172 others including **Yu, J.-C.**] (2021). Same data, different conclusions: Radical dispersion in empirical results when independent analysis operationalize and test the same hypothesis. *Organizational Behavior and Human Decision Processes*, *165*, 228-249.
+Schweinsberg, M., Feldman, M., Staub, N., Bernstein, A., ., Yarkoni, T.,. Uhlmann, E. L. \[and 172 others including **Yu, J.-C.**\] (2021). Same data, different conclusions: Radical dispersion in empirical results when independent analysis operationalize and test the same hypothesis. *Organizational Behavior and Human Decision Processes*, *165*, 228-249.
 
 Fiore, V. G., Guertler, A.-C. V., **Yu, J.-C.**, Tatineni, C. C., & Gu, X. (2021). A change of mind: globus pallidus activity and effective connectivity during changes in choice selections. *European Journal of Neuroscience*, 53, 2774-2787.
 
-**Yu, J.-C.\* **, Fiore, V. G.\*, Briggs, R. W., Braud, J., Rubia, K., Adinoff, B., & Gu, X. (2020). An insula-driven network computes decision uncertainty and promotes abstinence in chronic cocaine users. *European Journal of Neuroscience*, *52*, 4923-4936. 
+**Yu, J.-C.\*** , Fiore, V. G.\*, Briggs, R. W., Braud, J., Rubia, K., Adinoff, B., & Gu, X. (2020). An insula-driven network computes decision uncertainty and promotes abstinence in chronic cocaine users. *European Journal of Neuroscience*, *52*, 4923-4936.
 
 Yang, C.-T., Wang, C.-H., Chang, T.-Y., **Yu, J.-C.**, & Little, D. R. (2019). Cue-driven changes in detection strategies reflect trade-offs in strategic efficiency. *Computational Brain & Behavior*, *2*, 109-127.
 
@@ -80,60 +79,21 @@ Oliver, L. D., Hawco, C., Calarco, N., **Yu, J.-C.**, Moxon-Emre, I., Tan, T., G
 
 **Yu, J.-C.**, Chang, T.-Y., & Yang, C.-T. (2014). Working memory capacity predicts workload capacity. *Visual Cognition*, *22*(8), 1046-1049.
 
+## **Teaching Experience** {style="page-break-before: always"}
 
-## **Teaching Experience**{style="page-break-before: always"}
-
-**Educational Courses Instructor**, The 2024 Sensometircs Conference [*Jun 2024*]{.cvdate}
-**Instructor**, Partial Least Squares Correlation Tutorial, 2024 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br>
-**Leading Teaching Assistant**, 2023 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br>
-**Instructor**, The Krembil Centre for Neuroinformatic-the Scientific Computing Workshops, CAMH [*Dec 2022, 2023*]{.cvdate}			
-Courses: Introduction to MRI with BIDS<br>
-**Co-Instructor**, The University of Texas at Dallas [*Spring 2019*]{.cvdate}				
-Courses: Research Method II<br>
-**Teaching Assistant**, The University of Texas at Dallas [*Spring 2018 --- 2021*]{.cvdate}				
-Courses: Research Method II<br>
-**Teaching Assistant**, The University of Texas at Dallas [*Fall 2018 --- 2021*]{.cvdate}				
-Courses: Advanced Research Method,
-Advanced Research Methods in Behavioral and Brain Sciences and Data Analysis Using R<br>
-**Teaching Assistant**, The University of Texas at Dallas [*Fall 2016 --- Spring 2017*]{.cvdate}
-Courses: Research Design and Analysis<br>
-**Teaching Assistant**, The University of Texas at Dallas [*Spring 2016*]{.cvdate}
-Courses: Experimental Project<br>
-**Teaching Assistant**, The University of Texas at Dallas [*Fall 2015*]{.cvdate}			
-Courses: Introduction to Psychology<br>
-**Teaching Assistant**, National Cheng Kung University [*2012 --- 2013*]{.cvdate}				
+**Educational Courses Instructor**, The 2024 Sensometircs Conference [*Jun 2024*]{.cvdate} **Instructor**, Partial Least Squares Correlation Tutorial, 2024 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br> **Leading Teaching Assistant**, 2023 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br> **Instructor**, The Krembil Centre for Neuroinformatic-the Scientific Computing Workshops, CAMH [*Dec 2022, 2023*]{.cvdate}\
+Courses: Introduction to MRI with BIDS<br> **Co-Instructor**, The University of Texas at Dallas [*Spring 2019*]{.cvdate}\
+Courses: Research Method II<br> **Teaching Assistant**, The University of Texas at Dallas [*Spring 2018 --- 2021*]{.cvdate}\
+Courses: Research Method II<br> **Teaching Assistant**, The University of Texas at Dallas [*Fall 2018 --- 2021*]{.cvdate}\
+Courses: Advanced Research Method, Advanced Research Methods in Behavioral and Brain Sciences and Data Analysis Using R<br> **Teaching Assistant**, The University of Texas at Dallas [*Fall 2016 --- Spring 2017*]{.cvdate} Courses: Research Design and Analysis<br> **Teaching Assistant**, The University of Texas at Dallas [*Spring 2016*]{.cvdate} Courses: Experimental Project<br> **Teaching Assistant**, The University of Texas at Dallas [*Fall 2015*]{.cvdate}\
+Courses: Introduction to Psychology<br> **Teaching Assistant**, National Cheng Kung University [*2012 --- 2013*]{.cvdate}\
 Courses: Statistics and Data Analysis (including SAS and R programming)
 
 ## **Awards and Honors**
 
-Early Career Academic Excellence Award, the Congress of the Schizophrenia International Research Society (2025) ($1000 USD)<br>
-Meeting Scholarship for the Sensometric Society Meeting (2024) ($1600 EUR)<br>
-Sallie P. Asche Travel Award for the Dallas Aging and Cognition Conference (DACC) (2023) ($500 USD)<br>
-Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2017) ($125 USD)<br>
-Top 5 Student Poster for the 10th Annual Reprogramming the Brain to Health Symposium (2016) ($500 USD)<br>
-Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2016) ($125 USD)<br>
-Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2015) ($125 USD)<br>
-Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2014) ($125 USD)<br>
+Early Career Academic Excellence Award, the Congress of the Schizophrenia International Research Society (2025) (\$1000 USD)<br> Meeting Scholarship for the Sensometric Society Meeting (2024) (\$1600 EUR)<br> Sallie P. Asche Travel Award for the Dallas Aging and Cognition Conference (DACC) (2023) (\$500 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2017) (\$125 USD)<br> Top 5 Student Poster for the 10th Annual Reprogramming the Brain to Health Symposium (2016) (\$500 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2016) (\$125 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2015) (\$125 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2014) (\$125 USD)<br>
 
 ## **Service and Outreach**
 
-**Open Science Room Chair**, OHBM Open Science Special Interest Group [*Jul 2024 --- present*]{.cvdate}<br>	
-**Guest Editor**, Aperture Neuro Special Issue - "Open Datasets: Impact, Infrastructure, and Governance"<br>
-**Organizer**, Taiwan Open Science Days in Neuroscience and Cognitive Sciences<br>
-**Co-Organizer**, the 2024 Brainhack Global Toronto<br>
-**Member**, Technology and Services Working Group, Controlled Access Management of Research Data Initiative, Digital Research Alliance<br>
-**Member**, Data Stewardship Working Group, Controlled Access Management of Research Data Initiative, Digital Research Alliance<br>
-**Moderator**, the 2024 OHBM Open Science Room panel - Who pays the bill? [*Jun 2024*]{.cvdate}<br>
-**Moderator**, the 2024 OHBM Open Science Room panel - Open Science in Asia/Korea<br>
-**Moderator**, the 2024 OHBM Open Science Room table talk - Open Science in Asia/Korea<br>
-**Volunteering staff**, the 2024 OHBM Brainhack<br>
-**Hub Organizer**, the 2024 Brainhack School [*Mar 2024 --- present*]{.cvdate}<br>
-**Session Chair**, Imaging Network Ontario Symposium Judge, Imaging Network Ontario [*Mar 2024*]{.cvdate}<br>
-**Open Science Room Chair-Elect**, OHBM Open Science Special Interest Group [*Sep 2023 --- Jul 2024*]{.cvdate}<br>
-**Co-Organizer**, the 2023 Brainhack Global Toronto [*Sep 2023 --- Dec 2023*]{.cvdate}<br>
-**Volunteer**, the 2023 OHBM Open Science Room [*Jul 2023*]{.cvdate}		
-**Volunteer**, the 2023 OHBM Brainhack <br>
-**Co-Organizer**, the 2022 Brainhack Global Toronto[*Sep 2022 --- Dec 2022*]{.cvdate}<br>
-**Volunteer Session Host**, the 2022 OHBM Open Science Room [*Jun 2022*]{.cvdate}<br>
-**Volunteer**, the 2021 Brainhack Global Toronto[*Sep 2021 --- Nov 2021*]{.cvdate}<br>
-**Organizer**, the 2019 Brainhack Global Dallas[*Oct 2019 --- Nov 2019*]{.cvdate}<br>
+**Open Science Room Chair**, OHBM Open Science Special Interest Group [*Jul 2024 --- present*]{.cvdate}<br> **Guest Editor**, Aperture Neuro Special Issue - "Open Datasets: Impact, Infrastructure, and Governance"<br> **Organizer**, Taiwan Open Science Days in Neuroscience and Cognitive Sciences<br> **Co-Organizer**, the 2024 Brainhack Global Toronto<br> **Member**, Technology and Services Working Group, Controlled Access Management of Research Data Initiative, Digital Research Alliance<br> **Member**, Data Stewardship Working Group, Controlled Access Management of Research Data Initiative, Digital Research Alliance<br> **Moderator**, the 2024 OHBM Open Science Room panel - Who pays the bill? [*Jun 2024*]{.cvdate}<br> **Moderator**, the 2024 OHBM Open Science Room panel - Open Science in Asia/Korea<br> **Moderator**, the 2024 OHBM Open Science Room table talk - Open Science in Asia/Korea<br> **Volunteering staff**, the 2024 OHBM Brainhack<br> **Hub Organizer**, the 2024 Brainhack School [*Mar 2024 --- present*]{.cvdate}<br> **Session Chair**, Imaging Network Ontario Symposium Judge, Imaging Network Ontario [*Mar 2024*]{.cvdate}<br> **Open Science Room Chair-Elect**, OHBM Open Science Special Interest Group [*Sep 2023 --- Jul 2024*]{.cvdate}<br> **Co-Organizer**, the 2023 Brainhack Global Toronto [*Sep 2023 --- Dec 2023*]{.cvdate}<br> **Volunteer**, the 2023 OHBM Open Science Room [*Jul 2023*]{.cvdate}\
+**Volunteer**, the 2023 OHBM Brainhack <br> **Co-Organizer**, the 2022 Brainhack Global Toronto[*Sep 2022 --- Dec 2022*]{.cvdate}<br> **Volunteer Session Host**, the 2022 OHBM Open Science Room [*Jun 2022*]{.cvdate}<br> **Volunteer**, the 2021 Brainhack Global Toronto[*Sep 2021 --- Nov 2021*]{.cvdate}<br> **Organizer**, the 2019 Brainhack Global Dallas[*Oct 2019 --- Nov 2019*]{.cvdate}<br>

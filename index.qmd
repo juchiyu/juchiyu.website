@@ -19,6 +19,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ju-chi-yu-83270695/
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/juchiyu.bsky.social
     - icon: twitter-x
       text: X
       href: https://X.com/juchiyu
