@@ -14,6 +14,7 @@ title: ""
 
 + **SPAFAC**: Sparse Factorial Analysis [R package](https://github.com/juchiyu/SPAFAC)
 + **sGSVD**: Sparse Generalize Singular Value Decomposition [R package](https://github.com/vguillemot/sGSVD)
++ **IndivSTATIS**: Multivariate methods for individualized parcellation [R package](https://github.com/juchiyu/IndivSTATIS)
 
 <u>**Contributor**</u>
 

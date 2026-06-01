@@ -24,24 +24,41 @@ css: css/cv.css
 
 ## **Publications** {style="page-break-before: always"}
 
+<u>**Book chapter**</u> <br>
+
+Abdi, H., Béra, M., Guillemot V., Krishnan, A., **Yu J.-C.** (in press). Correspondance Analysis. Encyclopedia of Social Network Analysis and Mining. 3rd Ed.
+
 <u>**Peer-reviewed journal articles**</u> <br>
 
-**Yu, J.-C.**, Borgne, J. L., Krishnan, A., Gloaguen, A., Yang, C.-T., Rabin, L. A., Abdi, H., Guillemot, V. (2025) Sparse factor analysis for categorical data with the group-sparse generalized singular value decomposition. *Computational Statistics and Data Analysis*, (in press). [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/SPAFAC) [![PDF](https://img.shields.io/badge/PDF-Download-green?logo=adobeacrobatreader&logoColor=white)](pdf/Yu2025_sMCA_CSDA.pdf)<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" style="font-size: 12px;">
-  PDF is licensed under 
-  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
-    CC BY-NC-ND 4.0
-    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
-    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="">
-    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="">
-    <img style="height:12px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt="">
-  </a>
+**Yu, J.-C.\***, Chan, M. Y.\*, Han, L., Dickie, E. W., Abdi, H. IndivSTATIS: A multivariate approach to analyze brain network configurations with individualized parcellation. *Imaging Neuroscience*, (major revision).
+
+**Yu, J.-C.**, Ameis, S. H., Oliver, L.D., Rashidi, A. G., Secara, M. T., Moxon-Emre, I., Sandhu, F. A., Khan, Z. Z., Szatmari, P., Lai, M.-C., Argyelan, M., Gold, J. M., Tang, S., Foussias, G., Buchanan, R. W., Malhotra, A. K., Voineskos, A. N., Hawco, C.\*, Dickie, E. W.\* Perceptual and social axes of functional brain connectivity reveal different network segregation effects related to social cognitive performance across autism, schizophrenia spectrum disorders, and controls. *Neuropsychopharmacology*, (major revision).
+
+Rashidi A. G., Oliver, L. D., Wang W., **Yu, J.-C.**, Secara, M. T., Foussias, G., Dickie, E., Szatmari, P., Desarkar, P., Buchanan, R. W., Malhotra, A. K., Lai, M.-C., Voineskos, A. N., Hawco, C., Ameis, S. H. Transdiagnostic Factor Structure of Social and Non-Social Cognition: Associations with Clinical Symptoms and Functioning Across Autism and Schizophrenia Spectrum Disorders. *Translational Psychiatry*, (under review).
+
+Secara, M. T., Khan, Z., Rashidi, A., Oliver, L. D., **Yu, J.-C.**, Foussias, G., Dickie, E., Szatmari, P., Desarkar, P., Lai, M.-C., Baracchini, G., Malhotra, A., Buchanan, R. W., Voineskos, A., Ameis, S., Hawco, C. (2026) Transdiagnostic Profiles of BOLD Signal Variability in Autism and Schizophrenia Spectrum Disorders: Associations with Cognition and Functioning. *Human Brain Mapping*, (accepted).
+
+Oliver, L. D., **Yu, J.-C.**, Hawco, C., Calarco, N., Moxon-Emre, I., Tan, T., Gold, J. M., Foussias, G., DeRosse, P., Argyelan, M., Buchanan, R. W., Malhotra, A. K., & Voineskos, A. N. (2026) Multivariate relationships between social cognitive performance and functional connectivity during task and rest across schizophrenia spectrum disorders and healthy controls. *Molecular Biology*, (accepted).
+
+Sokolowki, H. M., Fan, C., **Yu, J.-C.**, Daker, R. J., Lyons, I., Zeman, A., Abdi, H., Levine, B. (2025) Visual imagery and STEM occupational attainment: Gender Matters. *Individual Differences and Personality*, (accepted).
+
+Bagheri, S., **Yu, J.-C.**, Gallucci, J., Tan, V., Oliver, L. D., Dickie, E. W., Foussias, G., Lai, M.-C., Voineskos, A. N., Ameis, S. H., Hawco, C. (2025) Transdiagnostic Neurobiology of Social Cognition and Individual Variability as Measured by Fractional Amplitude of Low-Frequency Fluctuation in Schizophrenia and Autism Spectrum Disorders. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, (in press). doi: https://doi.org/10.1016/j.bpsc.2025.04.004
+
+Lugtmeijer, S., **Yu, J.-C.**, Kong, X., Mansour, S., Wang, Q., Karvelis, P., Heinsfeld, A. S., Yang, Y.-F., Kim, H. J., Moia S., Zhang, W., Ibrahim, N. S. N., Bayrak, R. G., Vieira B. H., Suppiah, S., Lee, Y.-J., Muhlert, N. (2025). Proceedings of the OHBM Open Science Room 2024. *Aperture Neuro*, 5. doi: https://doi.org/10.52294/001c.142427
+
+**Yu, J.-C.**, Borgne, J. L., Krishnan, A., Gloaguen, A., Yang, C.-T., Rabin, L. A., Abdi, H., Guillemot, V. (2025) Sparse factor analysis for categorical data with the group-sparse generalized singular value decomposition. *Computational Statistics and Data Analysis*, 108179. doi: https://doi.org/10.1016/j.csda.2025.108179 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/SPAFAC) [![PDF](https://img.shields.io/badge/PDF-Download-green?logo=adobeacrobatreader&logoColor=white)](pdf/Yu2025_sMCA_CSDA.pdf)
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" style="font-size: 12px;">
+
+PDF is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> CC BY-NC-ND 4.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:12px!important;margin-left:3px;vertical-align:text-bottom;"/> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:12px!important;margin-left:3px;vertical-align:text-bottom;"/> <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" style="height:12px!important;margin-left:3px;vertical-align:text-bottom;"/> <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" style="height:12px!important;margin-left:3px;vertical-align:text-bottom;"/> </a>
+
 </p>
 
-Rashidi, A.G., Oliver, L.D., Pan, R., Moxon-Emre, I., Hawco, C., Dickie, E.W., Secara, M.T., **Yu, J.-C.**, Foussias, G., Szatmari, P., Desarkar, P., Buchanan, R.W., Malhotra, A.K., Lai, M-C., Voineskos, A.N., Ameis, S.H. (2025) Comparative Analysis of Social Cognitive and Neurocognitive Performance Across Autism and Schizophrenia Spectrum Disorders. *Schizophrenia Bulletin*, (in press).
+Rashidi, A.G., Oliver, L.D., Pan, R., Moxon-Emre, I., Hawco, C., Dickie, E.W., Secara, M.T., **Yu, J.-C.**, Foussias, G., Szatmari, P., Desarkar, P., Buchanan, R.W., Malhotra, A.K., Lai, M-C., Voineskos, A.N., Ameis, S.H. (2025) Comparative Analysis of Social Cognitive and Neurocognitive Performance Across Autism and Schizophrenia Spectrum Disorders. *Schizophrenia Bulletin*, sbaf005. doi: https://doi.org/10.1093/schbul/sbaf005.
 
 Baracchini, G.\*, **Yu, J.-C.\*** , Rieck, J., Beaton, D., Guillemot, V., Grady, C., Abdi, H., Spreng, R. N. (2024) covSTATIS: a multi-table technique for network neuroscience. *Aperture Neuro*, *4*. https://doi.org/10.52294/001c.124518. [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/giuliabaracc/covSTATIS_netneuro)
 
-**Yu, J.-C.**, Hawco, C., Bassman, L., Oliver, L. D., Argyelan, M., Gold, J. M., Tang, S. X., Foussias, G., Buchanan, R. W., Malhotra, A. K., Ameis, S. H., Voineskos, A. N., Dickie, E. W. (2024) Multivariate Association between Functional Connectivity Gradients and Cognition in Schizophrenia Spectrum Disorders, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, (in press). [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/spin_gradients.git) <!-- <a href="https://github.com/juchiyu/spin_gradients.git"> --> <!--   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"> --> <!-- </a> -->
+**Yu, J.-C.**, Hawco, C., Bassman, L., Oliver, L. D., Argyelan, M., Gold, J. M., Tang, S. X., Foussias, G., Buchanan, R. W., Malhotra, A. K., Ameis, S. H., Voineskos, A. N., Dickie, E. W. (2024) Multivariate Association between Functional Connectivity Gradients and Cognition in Schizophrenia Spectrum Disorders, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, S2451-9022(24)00268-4. Advance online publication. https://doi.org/10.1016/j.bpsc.2024.09.001. [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=grey)](https://github.com/juchiyu/spin_gradients.git) <!-- <a href="https://github.com/juchiyu/spin_gradients.git"> --> <!--   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30"> --> <!-- </a> -->
 
 Ng, J., **Yu, J.-C.**, Feusner, J., Hawco, C. (2024) Stable, efficient, and typical dynamic functional connectivity patterns relate to higher general intelligence. *Imaging Neuroscience*, *2*, 1-34. doi: https://doi.org/10.1162/imag_a_00234.
 
@@ -81,7 +98,7 @@ Oliver, L. D., Hawco, C., Calarco, N., **Yu, J.-C.**, Moxon-Emre, I., Tan, T., G
 
 ## **Teaching Experience** {style="page-break-before: always"}
 
-**Educational Courses Instructor**, The 2024 Sensometircs Conference [*Jun 2024*]{.cvdate} **Instructor**, Partial Least Squares Correlation Tutorial, 2024 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br> **Leading Teaching Assistant**, 2023 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br> **Instructor**, The Krembil Centre for Neuroinformatic-the Scientific Computing Workshops, CAMH [*Dec 2022, 2023*]{.cvdate}\
+**Instructor**, Partial Least Squares Correlation and Other Multivariate Methods for Neuroimaging, the 2026 Brainhack school [*May 2026*]{.cvdate} **Tutorial Instructor**, Partial Least Squares Correlation Workshop, Methods Club, The Rotman Research Institute at Baycrest [*November 2025*]{.cvdate} **Tutorial Instructor**, the 2025 Open Minds, Open Data: The Taiwan Open Brain Science Workshop [*June 2025*]{.cvdate}  **Instructor**, Partial Least Squares Correlation Tutorial, the 2025 Brainhack school [*May 2025*]{.cvdate} **Educational Courses Instructor**, The 2024 Sensometircs Conference [*Jun 2024*]{.cvdate} **Instructor**, Partial Least Squares Correlation Tutorial, 2024 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br> **Leading Teaching Assistant**, 2023 BrainHack school [*May 2023 --- Jun 2023*]{.cvdate}<br> **Instructor**, The Krembil Centre for Neuroinformatic-the Scientific Computing Workshops, CAMH [*Dec 2022, 2023*]{.cvdate}\
 Courses: Introduction to MRI with BIDS<br> **Co-Instructor**, The University of Texas at Dallas [*Spring 2019*]{.cvdate}\
 Courses: Research Method II<br> **Teaching Assistant**, The University of Texas at Dallas [*Spring 2018 --- 2021*]{.cvdate}\
 Courses: Research Method II<br> **Teaching Assistant**, The University of Texas at Dallas [*Fall 2018 --- 2021*]{.cvdate}\
@@ -91,7 +108,7 @@ Courses: Statistics and Data Analysis (including SAS and R programming)
 
 ## **Awards and Honors**
 
-Early Career Academic Excellence Award, the Congress of the Schizophrenia International Research Society (2025) (\$1000 USD)<br> Meeting Scholarship for the Sensometric Society Meeting (2024) (\$1600 EUR)<br> Sallie P. Asche Travel Award for the Dallas Aging and Cognition Conference (DACC) (2023) (\$500 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2017) (\$125 USD)<br> Top 5 Student Poster for the 10th Annual Reprogramming the Brain to Health Symposium (2016) (\$500 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2016) (\$125 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2015) (\$125 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2014) (\$125 USD)<br>
+2025	International Trainee Prize, the Neuro - Irv and Helga Cooper Foundation Open Science Prizes, the Tanenbaum Open Science Institute (competitive; \$10,000 CAD) <br> Early Career Academic Excellence Award, the Congress of the Schizophrenia International Research Society (2025) (\$1000 USD)<br> Meeting Scholarship for the Sensometric Society Meeting (2024) (\$1600 EUR)<br> Sallie P. Asche Travel Award for the Dallas Aging and Cognition Conference (DACC) (2023) (\$500 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2017) (\$125 USD)<br> Top 5 Student Poster for the 10th Annual Reprogramming the Brain to Health Symposium (2016) (\$500 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2016) (\$125 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2015) (\$125 USD)<br> Travel Award for the Society of Mathematical Psychology (SMP) Meeting (2014) (\$125 USD)<br>
 
 ## **Service and Outreach**
 
